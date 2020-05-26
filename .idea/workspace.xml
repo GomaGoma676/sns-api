@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ccbd5e3-9d9c-430d-bc0d-952a49f7769c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ccbd5e3-9d9c-430d-bc0d-952a49f7769c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,10 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590474878483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1590475128232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590475128232</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/frontend/sns-react" />
+    </ignored-roots>
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
@@ -101,10 +110,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="360" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/-58.-1177.1920.1177/0.23.1792.1097@0.23.1792.1097" timestamp="1590212927472" />
-    <state x="567" y="116" width="1018" height="914" key="CommitChangelistDialog2" timestamp="1590474878296">
+    <state x="567" y="116" width="1018" height="914" key="CommitChangelistDialog2" timestamp="1590475128115">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="567" y="116" width="1018" height="914" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1590474878296" />
+    <state x="567" y="116" width="1018" height="914" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1590475128115" />
     <state x="683" y="334" key="FileChooserDialogImpl" timestamp="1590212684136">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -133,10 +142,11 @@
     </state>
     <state width="1527" height="63" key="GridCell.Tab.0.right/-58.-1177.1920.1177/0.23.1792.1097@-58.-1177.1920.1177" timestamp="1590421432948" />
     <state width="1527" height="63" key="GridCell.Tab.0.right/-58.-1177.1920.1177/0.23.1792.1097@0.23.1792.1097" timestamp="1590395815338" />
-    <state x="397" y="211" key="SettingsEditor" timestamp="1590235680543">
+    <state x="397" y="211" key="SettingsEditor" timestamp="1590475179136">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="397" y="211" key="SettingsEditor/-58.-1177.1920.1177/0.23.1792.1097@0.23.1792.1097" timestamp="1590235680543" />
+    <state x="397" y="211" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1590475179136" />
     <state x="992" y="405" key="Vcs.Push.Dialog.v2" timestamp="1590473326376">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
